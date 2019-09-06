@@ -1,6 +1,7 @@
 # prtg-notifications-discord
 Discord notifications from Paessler's PRTG monitoring.
 
+<pre>
  ___ ___ _____ ___
 | _ \ _ \_   _/ __|
 |  _/   / | || (_ |
@@ -42,3 +43,4 @@ Version  Date        Notes
 
 ------------------
 (c) 2019 Michael Metully
+</pre>
